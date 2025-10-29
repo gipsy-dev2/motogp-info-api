@@ -1,0 +1,32 @@
+{
+  "klasemen": [
+    { "pos": 1, "pembalap": "M. Márquez", "tim": "Ducati Lenovo Team", "poin": 545, "menang": 11, "podium": 15 },
+    { "pos": 2, "pembalap": "A. Marquez", "tim": "BK8 Gresini Racing MotoGP", "poin": 413, "menang": 3, "podium": 11 },
+    { "pos": 3, "pembalap": "M. Bezzecchi", "tim": "Aprilia Racing", "poin": 291, "menang": 1, "podium": 7 },
+    { "pos": 4, "pembalap": "F. Bagnaia", "tim": "Ducati Lenovo Team", "poin": 286, "menang": 2, "podium": 8 },
+    { "pos": 5, "pembalap": "P. Acosta", "tim": "Red Bull KTM Factory Racing", "poin": 260, "menang": 0, "podium": 4 },
+    { "pos": 6, "pembalap": "F. Morbidelli", "tim": "Pertamina Enduro VR46 Racing Team", "poin": 227, "menang": 0, "podium": 2 },
+    { "pos": 7, "pembalap": "F. Di Giannantonio", "tim": "Pertamina Enduro VR46 Racing Team", "poin": 226, "menang": 0, "podium": 3 },
+    { "pos": 8, "pembalap": "F. Aldeguer", "tim": "BK8 Gresini Racing MotoGP", "poin": 186, "menang": 1, "podium": 3 },
+    { "pos": 9, "pembalap": "F. Quartararo", "tim": "Monster Energy Yamaha MotoGP™", "poin": 182, "menang": 0, "podium": 1 },
+    { "pos": 10, "pembalap": "R. Fernández", "tim": "Trackhouse MotoGP Team", "poin": 146, "menang": 1, "podium": 1 },
+    { "pos": 11, "pembalap": "J. Zarco", "tim": "CASTROL Honda LCR", "poin": 134, "menang": 1, "podium": 2 },
+    { "pos": 12, "pembalap": "B. Binder", "tim": "Red Bull KTM Factory Racing", "poin": 133, "menang": 0, "podium": 0 },
+    { "pos": 13, "pembalap": "L. Marini", "tim": "Honda HRC Castrol", "poin": 128, "menang": 0, "podium": 0 },
+    { "pos": 14, "pembalap": "E. Bastianini", "tim": "Red Bull KTM Tech3", "poin": 106, "menang": 0, "podium": 1 },
+    { "pos": 15, "pembalap": "J. Mir", "tim": "Honda HRC Castrol", "poin": 93, "menang": 0, "podium": 2 },
+    { "pos": 16, "pembalap": "A. Ogura", "tim": "Trackhouse MotoGP Team", "poin": 79, "menang": 0, "podium": 0 },
+    { "pos": 17, "pembalap": "M. Viñales", "tim": "Red Bull KTM Tech3", "poin": 72, "menang": 0, "podium": 0 },
+    { "pos": 18, "pembalap": "J. Miller", "tim": "Prima Pramac Yamaha MotoGP", "poin": 68, "menang": 0, "podium": 0 },
+    { "pos": 19, "pembalap": "Á. Rins", "tim": "Monster Energy Yamaha MotoGP™", "poin": 63, "menang": 0, "podium": 0 },
+    { "pos": 20, "pembalap": "M. Oliveira", "tim": "Prima Pramac Yamaha MotoGP", "poin": 36, "menang": 0, "podium": 0 },
+    { "pos": 21, "pembalap": "J. Martín", "tim": "Aprilia Racing", "poin": 34, "menang": 0, "podium": 0 },
+    { "pos": 22, "pembalap": "P. Espargaro", "tim": "Red Bull KTM Tech3", "poin": 23, "menang": 0, "podium": 0 },
+    { "pos": 23, "pembalap": "T. Nakagami", "tim": "Honda HRC Test Team", "poin": 10, "menang": 0, "podium": 0 },
+    { "pos": 24, "pembalap": "L. Savadori", "tim": "Aprilia Racing", "poin": 8, "menang": 0, "podium": 0 },
+    { "pos": 25, "pembalap": "A. Fernández", "tim": "Yamaha Factory Racing Team", "poin": 8, "menang": 0, "podium": 0 },
+    { "pos": 26, "pembalap": "S. Chantra", "tim": "IDEMITSU Honda LCR", "poin": 7, "menang": 0, "podium": 0 },
+    { "pos": 27, "pembalap": "A. Espargaró", "tim": "Honda HRC Test Team", "poin": 0, "menang": 0, "podium": 0 },
+    { "pos": 28, "pembalap": "M. Pirro", "tim": "Ducati Lenovo Team", "poin": 0, "menang": 0, "podium": 0 }
+  ]
+}
