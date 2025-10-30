@@ -1,7 +1,7 @@
 {
   "jadwal": [
     { "seri": 1, "sirkuit": "Buriram", "negara": "Thailand", "tanggal": "28 Februari - 2 Maret 2025", "waktuBalapan": "15:00", "zonaWaktu": "Asia/Bangkok" },
-    { "seri": 2, "sirkuit": "Termas de Rio Hondo", "negara": "Argentina", "tanggal": "14 - 16 Maret 2025", "waktuBalapan": "15:00", "zonaWaktu": "America/Buenos_Aires" },
+    { "seri": 2, "sirkuit": "Termas de Rio Hondo", "negara": "Argentina", "tanggal": "14 - 16 Maret 2025", "waktuBalapan": "15:00", "zonaWaktu": "America/Argentina/Buenos_Aires" },
     { "seri": 3, "sirkuit": "Austin", "negara": "Amerika Serikat", "tanggal": "28 - 30 Maret 2025", "waktuBalapan": "14:00", "zonaWaktu": "America/Chicago" },
     { "seri": 4, "sirkuit": "Lusail", "negara": "Qatar", "tanggal": "11 - 13 April 2025", "waktuBalapan": "20:00", "zonaWaktu": "Asia/Qatar" },
     { "seri": 5, "sirkuit": "Jerez", "negara": "Spanyol", "tanggal": "25 - 27 April 2025", "waktuBalapan": "14:00", "zonaWaktu": "Europe/Madrid" },
